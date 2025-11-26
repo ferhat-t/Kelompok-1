@@ -140,7 +140,7 @@
        </div>
   
        <div class="credit">
-        <p>Created by <a href="">raihandzaky</a>. | &copy; 2025.</p>
+        <p>Created by <a href="">raihandzaky</a>. | &copy; 2 025.</p>
        </div>
      </footer>
     <!-- footer end -->
@@ -151,7 +151,7 @@
     </script>
 
     <!-- My Javascript -->
-    <script src="js/script.js" >
+    <script src="{{url('frontend/js/script.js')}}" >
     </script>
   </body>
 </html>
